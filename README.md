@@ -2,10 +2,11 @@
 Shit Frontend Written By Me.
 Professional Backend written by Bikash.
 Original Backend Repo: https://github.com/thebikashpokhrel/Postify-dbms-backend.git
-create a blog database in my SQL and apply triggers and procedures specified in the backend.
+
 
 ## Bakend .env config file
-create a blog database in my SQL and apply triggers and procedures specified in files in the backend.
+Also
+Create a blog database in my SQL and apply triggers and procedures specified in files in the backend.
 
 ```markdown
 ```plaintext

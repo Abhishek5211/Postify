@@ -9,7 +9,6 @@ Also
 Create a blog database in my SQL and apply triggers and procedures specified in files in the backend.
 
 ```markdown
-```plaintext
 SERVER_PORT = 3000
 
 # Database Credentials

@@ -1,5 +1,5 @@
 # DBMS Project using React on the frontend, express on backend and MySQL as a database
-Shit Frontend Written By Me.
+
 Professional Backend written by Bikash.
 Original Backend Repo: https://github.com/thebikashpokhrel/Postify-dbms-backend.git
 

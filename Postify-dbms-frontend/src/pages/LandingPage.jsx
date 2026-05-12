@@ -26,7 +26,7 @@ const LandingPage = () => {
           <div className="w-full md:w-1/3 px-4 mb-8">
             <div className="bg-white rounded-lg overflow-hidden shadow-lg">
               <img
-                src="https://www.flowworks.com/wp-content/uploads/2016/09/rainfall-1.jpg"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ghandruk_HDR6.jpg/960px-Ghandruk_HDR6.jpg"
                 alt="Post Thumbnail"
                 className="w-full h-48 object-cover"
               />
